@@ -16,8 +16,6 @@
 <br />
 <img src="https://img.shields.io/badge/MySql-efefef?style=flat-square&logo=MySql"/>&nbsp;<img src="https://img.shields.io/badge/mongoDB-83b961?style=flat-square&logo=Mongodb"/>&nbsp;<img src="https://img.shields.io/badge/redis-654342?style=flat-square&logo=Redis"/>
 <br />
-<img src="https://img.shields.io/badge/prettier-123564?logo=prettier"/>&nbsp;<img src="https://img.shields.io/badge/eslint-456343?logo=eslint"/>
-<br />
 <img src="https://img.shields.io/badge/Git-purple?logo=Git"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-purple?logo=Github"/>
 </div>
 
