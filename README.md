@@ -1,7 +1,12 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YongjinKim&fontSize=70&animation=twinkling)
 
-![Anurag's GitHub stats](https://github-readme-stats-sand-six-91.vercel.app/api?username=Yongjin9660&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin9660&layout=compact&theme=material-palenight)
+<div style='text-align:center'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Yongjin9660&layout=compact&theme=material-palenight'>
+</div>
+
+<div style='text-align:center'>
+  <img src='https://github-readme-stats-sand-six-91.vercel.app/api?username=Yongjin9660&show_icons=true&count_private=true&line_height=24&theme=material-palenight&hide=stars'>
+</div>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
