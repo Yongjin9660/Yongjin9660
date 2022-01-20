@@ -11,16 +11,17 @@
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
 
 <div align="center">
-<img src="https://img.shields.io/badge/HTML5-ff7c00?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-fad500?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/webpack-26373f?logo=webpack"/>&nbsp;<img src="https://img.shields.io/badge/babel-333664?logo=babel"/>&nbsp;
+<img src="https://img.shields.io/badge/HTML5-ff7c00?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-fad500?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
 <br />
-<img src="https://img.shields.io/badge/TypeScript-2e72bb?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sass-cc6698?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
+<img src="https://img.shields.io/badge/webpack-26373f?logo=webpack"/>&nbsp;<img src="https://img.shields.io/badge/babel-333664?logo=babel"/>&nbsp;<img src="https://img.shields.io/badge/TypeScript-2e72bb?style=flat-square&logo=Typescript&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/Sass-cc6698?style=flat-square&logo=Sass&logoColor=white"/>&nbsp;
 <br />
-<img src="https://img.shields.io/badge/React-123456?logo=react"/>&nbsp;<img src="https://img.shields.io/badge/Redux-744ab3?logo=Redux"/>&nbsp;<img src="https://img.shields.io/badge/Recoil-3577e5?logo=Recoil"/>&nbsp;<img src="https://img.shields.io/badge/StyledComponents-345234?logo=styled-components"/>&nbsp;
+<img src="https://img.shields.io/badge/React-123456?logo=react"/>&nbsp;<!--<img src="https://img.shields.io/badge/Redux-744ab3?logo=Redux"/>&nbsp;--><img src="https://img.shields.io/badge/Recoil-3577e5?logo=Recoil"/>&nbsp;<img src="https://img.shields.io/badge/StyledComponents-345234?logo=styled-components"/>&nbsp;
 <br />
-<img src="https://img.shields.io/badge/node.js-84ba00?logo=node.js"/>&nbsp;<img src="https://img.shields.io/badge/Express-234534?logo=express"/>&nbsp;<img src="https://img.shields.io/badge/NginX-00984b?logo=NginX"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-0f0f0f?logo=sequelize"/>&nbsp;<img src="https://img.shields.io/badge/TYPEORM-fd0802?logo=typeorm"/>&nbsp;
-<br />
-<img src="https://img.shields.io/badge/MySql-efefef?style=flat-square&logo=MySql"/>&nbsp;<img src="https://img.shields.io/badge/mongoDB-83b961?style=flat-square&logo=Mongodb"/>
-<br />
+<!-- <img src="https://img.shields.io/badge/node.js-84ba00?logo=node.js"/>&nbsp;<img src="https://img.shields.io/badge/Express-234534?logo=express"/>&nbsp;<img src="https://img.shields.io/badge/NginX-00984b?logo=NginX"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-0f0f0f?logo=sequelize"/>&nbsp;<img src="https://img.shields.io/badge/TYPEORM-fd0802?logo=typeorm"/>&nbsp;
+<br /> -->
+<!-- <img src="https://img.shields.io/badge/MySql-efefef?style=flat-square&logo=MySql"/>&nbsp;<img src="https://img.shields.io/badge/mongoDB-83b961?style=flat-square&logo=Mongodb"/> 
+<br /> 
+-->
 <img src="https://img.shields.io/badge/Git-purple?logo=Git"/>&nbsp;<img src="https://img.shields.io/badge/GitHub-purple?logo=Github"/>
 </div>
 
