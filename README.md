@@ -19,7 +19,6 @@
 <br />
 <!-- <img src="https://img.shields.io/badge/node.js-84ba00?logo=node.js"/>&nbsp;<img src="https://img.shields.io/badge/Express-234534?logo=express"/>&nbsp;<img src="https://img.shields.io/badge/NginX-00984b?logo=NginX"/>&nbsp;<img src="https://img.shields.io/badge/Sequelize-0f0f0f?logo=sequelize"/>&nbsp;<img src="https://img.shields.io/badge/TYPEORM-fd0802?logo=typeorm"/>&nbsp;
 <br /> -->
-  
 <!-- <img src="https://img.shields.io/badge/MySql-efefef?style=flat-square&logo=MySql"/>&nbsp;<img src="https://img.shields.io/badge/mongoDB-83b961?style=flat-square&logo=Mongodb"/> 
 <br /> 
 -->
