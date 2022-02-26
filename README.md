@@ -9,7 +9,6 @@
 </div>
 
 <h3 align="center">🛠️ Tech Stack 🛠️</h3>
-
 <div align="center">
 <img src="https://img.shields.io/badge/HTML5-ff7c00?style=flat-square&logo=html5&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white"/>&nbsp;<img src="https://img.shields.io/badge/JavaScript-fad500?style=flat-square&logo=Javascript&logoColor=white"/>&nbsp;
 <br />
